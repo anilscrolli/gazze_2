@@ -12,8 +12,8 @@ var config = {
     auto: false,
     title: 'Gazze'de İşgalin 100 günü',
     subtitle: '',
-    byline: 'By a Digital Storyteller',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    byline: '',
+    footer: '',
     chapters: [
         {
             id: 'slug-style-id',
